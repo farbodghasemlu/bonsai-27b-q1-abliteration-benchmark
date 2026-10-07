@@ -1,0 +1,3 @@
+{"llama_cpp_commit": "feb9a3d6d",
+ "hardware": "AMD EPYC-Rome Processor, 16 threads, 30 GiB RAM, CPU only",
+ "ppl_chunks": 40, "eval_limit": 150, "refusal_n": 100}
